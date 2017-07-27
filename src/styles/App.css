@@ -1,0 +1,14 @@
+.home {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('http://images.all-free-download.com/images/graphiclarge/green_house_icon_312519.jpg');
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.portfolio img {
+  background-image: url('http://www.reactiongifs.com/r/2012/06/swanson-dance.gif');
+  height: 400;
+  width: 400;
+}
