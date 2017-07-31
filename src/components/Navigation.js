@@ -8,6 +8,8 @@ export default class Navigation extends Component {
         <div><button className="btn"><NavLink exact to="/">Home</NavLink></button></div>
         <div><button className="btn"><NavLink to="/about">About</NavLink></button></div>
         <div><button className="btn"><NavLink to="/portfolio">Portfolio</NavLink></button></div>
+        <div><button className="btn"><NavLink to="/contact">Contact</NavLink></button></div>
+        <div><button className="btn"><NavLink to="/references"> References</NavLink></button></div>
       </div>
     )
   }
